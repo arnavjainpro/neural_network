@@ -1,6 +1,6 @@
 # Neural Network
 
-Welcome to the Neural Network project, a simple implementation designed to help users understand the fundamentals of neural networks and their applications. This project consists of a three-layer neural network where each node in the layers has corresponding weights to determine the flow of data.
+Welcome to my Neural Network project, a simple implementation designed to help users understand the fundamentals of neural networks and their applications. This project consists of a three-layer neural network where each node in the layers has corresponding weights to determine the flow of data.
 
 ![Neural Network Structure](https://i.imgur.com/oJlXD2e.png)
 
